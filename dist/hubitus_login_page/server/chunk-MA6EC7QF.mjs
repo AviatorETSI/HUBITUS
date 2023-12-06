@@ -1,0 +1,2 @@
+import './polyfills.server.mjs';
+import{a as r,b as i,i as p,k as n,l as m,m as s,p as f,v as a}from"./chunk-HSJG4W6P.mjs";var c=(()=>{let o=class o{constructor(){this.title="hubitus_login_page"}};o.\u0275fac=function(e){return new(e||o)},o.\u0275cmp=r({type:o,selectors:[["hubitus_login_page"]],standalone:!0,features:[i],decls:0,vars:0,template:function(e,x){},dependencies:[n]});let t=o;return t})();var d=[];var u={providers:[a(d),s()]};var v={providers:[f()]},l=p(u,v);var C=()=>m(c,l),k=C;export{k as a};
