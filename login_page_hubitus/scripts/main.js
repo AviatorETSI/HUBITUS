@@ -25,8 +25,8 @@ async function anfrage_abschicken(usern, passw){
 	// window.location.replace("/protected");
 	document.getElementById('user_name').value =""
 	document.getElementById('userpassword').value=""
-	document.getElementById('user_name').classname  ="user_icon_black"
-	document.getElementById('userpassword').classname="password_icon_black"
+	document.getElementById('user_name').className ="user_icon_black"
+	document.getElementById('userpassword').className='password_icon_black'
 }
 
 document.addEventListener('keydown', function(e){
